@@ -1,0 +1,100 @@
+//===========[common command]===============//
+1. pwd [present working directory] dekhar jonno
+3. clear [clear all command line]
+4. history [show all command which command i will writing  ]
+5. type echo [it's help to command type it's built-in or not-built in]
+6. git [it's is file command]
+
+//========== [copy and move file] ============//
+1. mv [ze file nibe tar direction and ze khane nibe tar direction] move file
+2. mv <directory/bangladesh> <bangladeshi> [it's is use to rename file] 
+2. cp [ ""   ""   ""  "" ] copy file 
+3. rm [remove file and folder ]
+4. cp -r []
+
+//============= [echo]=============//
+1. echo [like console log ] echo my name is sagor 
+2. printf [same as echo] printf "my name is sagor" 
+3. echo -n [create file and go inside the file]
+4. echo $HOME [show home directory]
+6. echo $LOGNAME [show directory where I am working]
+7. echo $PATH [show big pathname]
+
+
+
+
+//====[Permission directory]======//
+23. give the file directory permission [(chmod number and file name ) calculator use korte hbe sekhane tik cinnot dile 1 nah dile 0 te count hoy ]
++ read + 1
++ write + 1
++ execute + 1
+
+
+//============= [ls]=============//
+0. -R [directory and vitore ki ki file ase sob kichu dekhay]
+1. ls -a [it's show all file and hidden file]
+2. ls -l --> [show all the file permission or not and total file number ]
+3. ls -r --> Reverse the list of files and folders
+4. ls -t --> Sort the files and folders by a time.
+5. ls [looking folder details ]
+6. ls -lt [show folder/file and create time (show serially time maintainable) ]
+7. ls -ltr [ "" "" ""  (show Reverse time maintainable)]
+8. ls Document [show all Document file]
+
+
+//============= [sudo]=============//
+1. sudo [admin user e zaoyar jonno ]
+2. sudo apt update [ze ze file update korte hbe ta dekhar jonno ]
+3. sudo apt upgrade [ file update korar jonno ]
+4. sudo apt install apache2 [install any file]
+
+ 
+//============= [touch]================//
+1. touch sagor.txt Sagor.txt SAGOR.txt [i have create lot of file in same name because it's is case sensitive ]
+2. touch .file [it's make hidden file] 
+3. touch [file create korar jonno]
+
+//============= [mkdir]=============//
+1. mkdir [it's make directory]
+2. mkdir folder_1 folder_2 folder_3 [it's make multiple folder]
+3. mkdir folder_1/new_folder [it's make new folder inside the directory]
+4. mkdir -p /home/bob/fish/salmon/saogr , /home/bob/fish/salmon/mthu [tow folder create one time]
+
+//===========[cd]===============//
+1.cd /folder_1 [go to the folder]
+2.cd /folder/new_folder [go to the folder]
+2.cd .. [back to previous directory]
+
+
+//=============[pushed / popd]===========//
+1. pushd [it's help to make root directory]
+2. popd [it's help to remove root directory]
+
+//=============[cat]=================//
+1. cat bangladesh/dhaka [it's show file parent]
+2. command [more / less]
+3. whatis data [it's help to see what command works is ]
+4. man [it's  help to see what command works and details information]
+5. data --help [it's help to how command works ]
+6. chsh [changing login password]
+7. dt [show current date]
+8. history [show all command history]
+9. env [show computer all variable ]
+10. export NEW_ENV = 1234354 [It's help to set env variable]
+11. which obs-studio [i am studio use or not]
+12. apt update [enter but it not  working] sudo !! (apt update) [!! mean before i am enter the command ]
+13. echo 'alias up=uptime' >> ~bob/.profile [set time ]
+
+
+
+
+//=================== changing Shell ==================//
+1. echo $SHELL [show what type of command shell you use]
+2. cat /etc/shells [show list of shells]
+
+
+//================== [set variable on the file] ===============//
+echo 'export PROJECT=MERCURY' >> /home/bob/.profile
+
+https://www.youtube.com/watch?v=CiBi-hNnqEw&list=PLu0W_9lII9ahOwlLGfKljH86ni_muVoi7
+ 

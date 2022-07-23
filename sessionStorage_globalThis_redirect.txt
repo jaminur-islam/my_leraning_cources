@@ -1,0 +1,23 @@
+// ze page er path name cacchi oi page e likhbo  
+const storage = globalThis?.sessionStorage;
+    storage?.setItem("prevPath", router.asPath);
+    console.log(router);
+
+// ze page e pathacchi oi page e giye eita likhbo and peye jabo
+  console.log(globalThis?.sessionStorage?.prevPath);
+
+
+set the value when user redirect
+ router.replace({
+          pathname: "/login",
+          query: { from: router.asPath },
+        });
+
+get the value when user the page 
+console.log(router.query)
+
+
+<< ============= export / import =============================== >>
+export {add as default , hellowWorldFunction }
+
+import add [ze kono name] {helloWorldFucntion } from "/file/location"

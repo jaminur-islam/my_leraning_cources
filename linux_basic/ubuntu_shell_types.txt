@@ -1,0 +1,6 @@
+//================= [all shell] ======================//
+1. Bourne shell
+2. C shell(cash or tcsh)
+3. Korn shell (ksh)
+4. Z Shell (zsh)
+5. Bourne again Shell (bash)

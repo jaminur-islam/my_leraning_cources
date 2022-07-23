@@ -1,0 +1,48 @@
+Sadia khanam
+20
+Rajshahi
+123163513
+CSE
+Bsc
+4.0
+1
+Suha khan
+19
+Rajshahi
+635534514
+BBA
+Bsc
+3.6
+2
+Rafin chowdhury
+22
+Rangpur
+36523254
+CSE
+Bsc
+3.88
+2
+Sadaf Rahman
+24
+Khulna
+6231535
+Architecture
+B.arch
+3.5
+2
+Atika Rahman
+22
+Dhaka
+325345345
+Economics
+Msc
+3.7
+2
+Tahiya
+25
+Bogura
+6525435143
+EEE
+Msc
+3.98
+3
